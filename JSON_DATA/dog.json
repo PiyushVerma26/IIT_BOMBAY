@@ -1,0 +1,26 @@
+{
+  "title": "Dogs",
+  "list": [
+    {
+      "species": "Dog",
+      "name": "Golden Retriever",
+      "size": "Medium",
+      "location": "USA",
+      "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg"
+    },
+    {
+      "species": "Dog",
+      "name": "German Shepherd",
+      "size": "Large",
+      "location": "Germany",
+      "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg"
+    },
+    {
+      "species": "Dog",
+      "name": "Beagle",
+      "size": "Small",
+      "location": "UK",
+      "image": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg"
+    }
+  ]
+}
